@@ -3,6 +3,7 @@ End-to-end AWS ETL pipeline using S3, Lambda, Step Functions, and Glue with meda
 project/
 │
 ├── README.md
+├── architecture.png/
 ├── datasets/
 │   ├── customers_raw.csv
 │   ├── orders_raw.csv
