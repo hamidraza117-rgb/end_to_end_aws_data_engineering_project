@@ -1,0 +1,4 @@
+product_id,product_name,category,price,stock
+101,Laptop,Electronics,800,50
+102,Smartphone,Electronics,600,
+103,Headphones,Electronics,,200
