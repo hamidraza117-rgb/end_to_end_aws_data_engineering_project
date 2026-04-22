@@ -4,6 +4,7 @@ project/
 │
 ├── README.md
 ├── architecture.png/
+├── screenshots/
 ├── datasets/
 │   ├── customers_raw.csv
 │   ├── orders_raw.csv
@@ -14,7 +15,5 @@ project/
 │   ├── silver.py
 │   ├── gold.py
 │
-├── lambda/
-│   ├── trigger.py
-│
-└── screenshots/
+└── lambda/
+    ├── trigger.py
